@@ -1,0 +1,2 @@
+Bu projede Türkiye'deki şehirlerin verilerine, ID'leri üzerinden erişilebilmektedir.
+Json dosyasında Türkiye'deki şehirler sıralanmıştır, uygulamada ID aratıldığında, ID mevcut bir şehirle eşleşiyorsa şehre ait isim-ülke-koordinat verileri görüntülenebilmektedir.
